@@ -1,0 +1,14 @@
+# config.yml
+# Edit this file to configure SFIS
+# DO NOT DELETE THIS FILE
+
+# Your Infmation
+title: "My SFIS Container" # Your Container's title(such as "My Box" or "Tom's SFIS Container")
+owner: "David Ajax" # your name
+email: "none@example.com" # your email(just write one)
+ad_code: "" # write your ad code in the index page(such as <a href="https://localhost/demo.jpg">AD</a>)
+
+# Configure SFIS
+about: True # show "Based on SFIS"
+compress_html: True # Compress HTML for a better web loading experience, but it slows down deployment
+preview_readme_md: True # preview README.md in index.html
