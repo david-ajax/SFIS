@@ -2,7 +2,7 @@
 
 A Static File Indexing System
 
-**This program is not stable and have errors**
+**This program is extremely unstable and has errors**
 
 **Please do not use it until I removed these text**
 
