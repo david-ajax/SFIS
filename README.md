@@ -1,11 +1,5 @@
 # SFIS
 
-A Static File Indexing System
-
-**This program is extremely unstable and has errors**
-
-**Please do not use it until I removed these text**
-
 # Quick Start
 1. Install Python 3.x from python.org or pkg manager
 2. Install Python Packages from Internet  
